@@ -1,0 +1,15 @@
+@use "cabecalho";
+@use "section_aniversario";
+@use "resets";  
+
+body {
+    height: 970px;
+    max-width: 1920px;
+    font-family: 'Arial', sans-serif;
+}
+
+.cor_background_linda {
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(red 10%, blue 90%);
+}
